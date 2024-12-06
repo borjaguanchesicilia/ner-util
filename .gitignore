@@ -28,7 +28,7 @@ ENV/
 *.pyd
 __pycache__/
 .cache/
-data/output/
+data/
 Pipfile
 Pipfile.lock
 poetry.lock
